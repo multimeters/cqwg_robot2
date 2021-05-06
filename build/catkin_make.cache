@@ -1,0 +1,2 @@
+agx_sdk:ros_marvelmind_package:scout_ros/scout_base:scout_ros/scout_bringup:scout_ros/scout_description:scout_ros/scout_gazebo_sim:scout_ros/scout_msgs:scout_ros/scout_ros:scout_ros/scout_webots_sim
+-DCATKIN_DEVEL_PREFIX=/home/cqwg/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cqwg/catkin_ws/install -G Unix Makefiles

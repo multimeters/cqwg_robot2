@@ -1,0 +1,8 @@
+prefix=/home/cqwg/catkin_ws/install
+
+Name: scout_webots_sim
+Description: Description of scout_webots_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy scout_base sensor_msgs std_msgs message_runtime tf webots_ros pcl_ros
